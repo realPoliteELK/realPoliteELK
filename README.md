@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [oneelk.one](oneelk.one)
 
-- 📝 I regularly write articles on [ASK FIRST PLEASE](ASK FIRST PLEASE)
+- 📝 I regularly write articles on (ASK FIRST PLEASE)
 
 - 💬 Ask me about **How am i doing in front-end**
 
